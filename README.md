@@ -1,1 +1,1 @@
-# time tracking dashboard
+# Tip calculator app
